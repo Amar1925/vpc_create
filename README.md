@@ -232,3 +232,10 @@ An Availability Zone is a distinct location within an AWS Region that is enginee
 - [AWS Virtual Private Gateway Documentation](https://docs.aws.amazon.com/vpn/latest/s2svpn/VPC_VPN.html)
 
 ![image](https://github.com/user-attachments/assets/51814ba0-670a-4b71-a0f1-09e43e0a9985)
+![image](https://github.com/user-attachments/assets/46205ef4-6c85-4c23-be90-25ed427e6f98)
+![image](https://github.com/user-attachments/assets/34c10fe1-59d0-4b86-ae7e-bbacee2a35f8)
+![image](https://github.com/user-attachments/assets/5a77ce57-66d1-4d4b-aa7d-ec6a2939ee39)
+![image](https://github.com/user-attachments/assets/b3283c01-64f3-48a7-b8b5-2fbf8df3cd93)
+
+
+
